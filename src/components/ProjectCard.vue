@@ -1,11 +1,14 @@
 <template>
   <div class="project-card">
-    
+    fdhdf
   </div>
 </template>
 
 <style scoped>
-
+  .project-card {
+    width: 33%;
+    border: 1px solid red;
+  }
 </style>
 
 <script>
