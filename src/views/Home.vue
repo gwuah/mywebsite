@@ -62,6 +62,10 @@
     font-size: 18px;
   }
 
+  .current-position {
+    padding: 0 20px;
+  }
+
   .current-position .aidahbot-text {
     text-decoration: none;
   }
@@ -93,6 +97,7 @@
     padding: 10px;
     position: relative;
     top: 78px;
+    margin-bottom: 30px;
   }
 
   .contact-me {
