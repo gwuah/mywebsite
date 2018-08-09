@@ -35,7 +35,7 @@
 
 <style scoped>
   .navigation {
-    margin-bottom: 150px;
+    margin-bottom: 130px;
   }
 
   .home{
@@ -156,7 +156,6 @@
       display: none;
     }
 
-    
   }
 
 
@@ -196,9 +195,7 @@ export default {
         {skill:"express", color: null},
         {skill:"scss", color: "#f1f1f1"},
         {skill:"python", color: null},
-        {skill:"git", color: null},
-        {skill:"postgres", color: "#f1f1f1"},
-        {skill:"graphql", color: "#f1f1f1"},
+        {skill:"git", color: null}
       ]
     }
   },
