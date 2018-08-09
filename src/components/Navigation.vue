@@ -24,6 +24,8 @@
     /* text-decoration:; */
     color: black;
     padding: 10px;
+    /* font-weight: bold; */
+    font-family: 'Fira Sans Condensed'
   }
 
   @media (max-width: 500px) {
